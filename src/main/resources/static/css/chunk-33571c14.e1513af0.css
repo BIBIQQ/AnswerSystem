@@ -1,0 +1,15 @@
+.practice[data-v-84233c66] {
+    width: 95%;
+    margin: 15px auto
+}
+
+.practice .loading[data-v-84233c66] {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    min-height: 200px
+}
+
+.practice .el-table[data-v-84233c66] {
+    margin-top: 10px
+}
